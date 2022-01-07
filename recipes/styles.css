@@ -1,0 +1,33 @@
+h1 {
+    background-color: rgb(0, 38, 255);
+    color: honeydew;
+    text-align: center;
+    font-family: "Brush Script MT", monospace;
+    font-size: 40px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+h2 {
+    font-family: "Brush Script MT", monospace;
+    font-size: 30px;
+}
+
+p {
+    font-family: "Brush Script MT", monospace;
+    font-size: 16px;
+}
+
+h3 {
+    font-family: "Brush Script MT", monospace;
+    font-size: 30px;
+}
+
+ul {
+    font-family: "Brush Script MT", monospace;
+    font-size: 16px;
+}
+

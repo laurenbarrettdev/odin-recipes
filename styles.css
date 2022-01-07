@@ -1,0 +1,31 @@
+h1 {
+    background-color: rgb(0, 38, 255);
+    color: honeydew;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Brush Script MT", monospace;
+}
+
+/* Nav Bar */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #0026ff;
+}
+
+li a {
+    display: block;
+    color: honeydew;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: "Brush Script MT", monospace;
+    font-size: 20px;
+}
+
+/* Change the link color on hover*/
+li a:hover {
+    background-color: #5f77fa;
+    color: honeydew;
+}
