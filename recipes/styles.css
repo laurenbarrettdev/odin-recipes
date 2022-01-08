@@ -11,28 +11,20 @@ img {
     width: 300px;
 }
 
-h2 {
+h2,
+h3,
+h4, {
     font-family: "Brush Script MT", monospace;
     font-size: 30px;
 }
 
-p {
-    font-family: "Brush Script MT", monospace;
-    font-size: 16px;
-}
-
-h3 {
-    font-family: "Brush Script MT", monospace;
-    font-size: 30px;
-}
-
+p, 
 ul {
     font-family: "Brush Script MT", monospace;
     font-size: 16px;
 }
 
-h4 {
-    font-family: "Brush Script MT", monospace;
-    font-size: 30px;
-}
+
+
+
 
